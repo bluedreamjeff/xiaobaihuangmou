@@ -11,4 +11,4 @@ function compare(property){
         return value1 - value2;
     }
 }
-console.log(arr.sort(compare('age')));   
+console.log(arr.sort(compare('age')));  console.log(arr.sort(compare('age')));    
